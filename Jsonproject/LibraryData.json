@@ -1,0 +1,61 @@
+﻿{
+  "Books": [
+
+    {
+      "Id": 1,
+      "Title": "Lady Susan",
+      "Author": "Jane Austen",
+      "Genre": "Historical.Fiction.Romance.Classics",
+      "ISBN": 111,
+      "PublishedYear": 1990,
+      "Reviews": [ 4, 5 ]
+
+    },
+    {
+      "Id": 2,
+      "Title": "Macbeth",
+      "Author": "William Shakespeare",
+      "Genre": "Classics.Theatre.Literature",
+      "ISBN": 222,
+      "PublishedYear": 2002,
+      "Reviews": [ 3, 4 ]
+
+    },
+    {
+      "Id": 3,
+      "Title": "It",
+      "Author": "Stephen King",
+      "Genre": "Horror.Fiction.Thriller.Fantasy",
+      "ISBN": 333,
+      "PublishedYear": 2013,
+      "Reviews": [  5 ]
+
+    }
+
+  ],
+   "Authors": [
+    {
+      "Id": 1,
+      "Name": "Madeline Miller",
+      "Country": "The United States",
+      "Books": " The Song of Achilles.THE SONG OF ACHILLES.Circe.Galatea",
+      "Language": "English"
+    },
+    {
+      "Id": 2,
+      "Name": "Jonas Mosträm",
+      "Country": "Sverige",
+      "Books": "Rovdjur.Drottningen.D�dens pendel",
+      "Language": "Swedish"
+    },
+    {
+      "Id": 3,
+      "Name": "Andrea Wulf",
+      "Country": "German",
+      "Books": "Fabelhafte Rebellen.Die Abenteuer des Alexander von Humboldt",
+      "Language": "German"
+    }
+
+   ]
+
+}
